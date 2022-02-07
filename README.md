@@ -4,3 +4,5 @@ UE4 plug-in for A* Pathfinding on custom rectangle grids. WIP but works. Uploadi
 
 ![Gif of pathfinding](https://github.com/Dn2/AStarGridPaths/blob/main/Gifs/interpMove.gif?raw=true)
 ![Gif of pathfinding](https://github.com/Dn2/AStarGridPaths/blob/main/Gifs/snek.gif?raw=true)
+![Gif of pathfinding](https://thumbs.gfycat.com/OblongLawfulCattle-max-1mb.gif)
+
