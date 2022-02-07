@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AStarGridPaths",
+	"Description": "My plugin",
+	"Category": "Other",
+	"CreatedBy": "Dane Nurse",
+	"CreatedByURL": "https://twitter.com/DaneNurse",
+	"DocsURL": "https://twitter.com/DaneNurse",
+	"MarketplaceURL": "https://twitter.com/DaneNurse",
+	"SupportURL": "https://twitter.com/DaneNurse",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AStarGridPaths",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
