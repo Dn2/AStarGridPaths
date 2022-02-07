@@ -1,2 +1,2 @@
 # AStarGridPaths
-UE4 plug-in for A* Pathfinding on custom rectangle grids. WIP but works
+UE4 plug-in for A* Pathfinding on custom rectangle grids. WIP but works. Uploading for demo purposes and resume examples.
