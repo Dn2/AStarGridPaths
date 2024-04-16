@@ -10,4 +10,4 @@ UE4 plug-in for A* Pathfinding on custom rectangle grids. WIP but works. Uploadi
 
 ![Gif of pathfinding](https://thumbs.gfycat.com/OblongLawfulCattle-size_restricted.gif)
 
-> test line
+
