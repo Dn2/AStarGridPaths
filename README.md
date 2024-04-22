@@ -1,4 +1,5 @@
 # Currently rewriting this plugin. dont try to use this one
+## Use this instead https://github.com/Dn2/Dn2GameGrids
 
 ## AStarGridPaths
 UE4 plug-in for A* Pathfinding on custom rectangle grids. WIP but works. Uploading for demo purposes and resume examples.
